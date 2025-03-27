@@ -4,3 +4,4 @@ build
 yarn.lock
 web-build
 .expo
+workspace.com-workspace

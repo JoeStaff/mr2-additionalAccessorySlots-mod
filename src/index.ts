@@ -14,6 +14,6 @@ const {
   name,
   version,
   description,
-} = require("./wizardsGatherManaMod");
+} = require("./additionalAccessorySlotsMod");
 
 export { description, id, load, name, preload, version };
